@@ -21,7 +21,7 @@ there must be an enormous, predetermined structure of routes—a gigantic databa
 
 It never says “YES” or “NO”. Machine learning is analog (like waves gradually going up and down) rather than binary (like arrows pointing upward and downward). Machine learning constructs every possible route to a destination and compares them in real time, including all the variables such as changing traffic. So, a machine learning system doesn’t say, “This is the fastest route.” It says something like, “I am 84% confident that this route will get you there in the shortest time.”
 
-to make a perfect decision, we need to rely on both machine and human strengths. A partnership between humans and machines can lead to sensible decisions. 
+to make a perfect decision, we need to rely on both machine and human strengths. A partnership between humans and machines can lead to sensible decisions.
 
 ## Supervised Learning
 
