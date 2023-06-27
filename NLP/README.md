@@ -50,3 +50,5 @@ Sentiment analysis is a means of assessing if data is positive, negative, or neu
 ## CLASSIFICATION PROBLEM
 
 here is where in our day to day conversations we can have different meaning under the same conversation.
+
+NLP combines techniques from computer science, linguistics, and machine learning to enable computers to understand, interpret, and generate human language in a meaningful way.
