@@ -7,4 +7,3 @@ Machines have three different ways they can learn from this data:
 1. Supervised learning
 2. Unsupervised learning
 3. Reinforcement learning
-
