@@ -5,8 +5,8 @@ this studies how to optimize AI's beneficial impact while reducing unintended or
 Trust in AI is built on five ethical pillars:
 
 1. [Fairness](./fairness.md)
-2. Robustness
-3. Explainability
+2. [Robustness](./robustness.md)
+3. [Explainability](./explainability.md)
 4. Transparency
 5. Privacy
 
