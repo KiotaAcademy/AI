@@ -7,8 +7,8 @@ Trust in AI is built on five ethical pillars:
 1. [Fairness](./fairness.md)
 2. [Robustness](./robustness.md)
 3. [Explainability](./explainability.md)
-4. Transparency
-5. Privacy
+4. [Transparency](./)
+5. [Privacy](./privacy.md)
 
 we interact with AI every day, but how much do we trust them?
 
